@@ -1,3 +1,5 @@
+//COMISION 602
+//MARTINEZ CASIMIRO MARIA
 #include<stdio.h>
 #include <stdlib.h>
 #include<time.h>
